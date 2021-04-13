@@ -1,0 +1,5 @@
+Chai Pakori	30.0
+FrenchFries	40.0
+Panner Chilli	70.0
+Mutton Biryani	120.0
+Chicken Korma	160.0
